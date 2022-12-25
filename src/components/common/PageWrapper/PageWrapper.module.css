@@ -1,0 +1,12 @@
+.pageWrapper {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: flex-start;
+    min-height: 100vh;
+    padding: 56px 0 64px;
+}
+
+.lightPageWrapper {
+    background: #E5E5E5;
+}
